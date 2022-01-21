@@ -1,0 +1,110 @@
+﻿  Board.cpp
+C:\Users\yougu\source\repos\chess\chess\Board.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\yougu\source\repos\chess\chess\Board.cpp(13,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yougu\source\repos\chess\chess\Board.cpp(13,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yougu\source\repos\chess\chess\Board.cpp(91,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yougu\source\repos\chess\chess\Board.cpp(98,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Cell.cpp
+  Figure.cpp
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(4,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(328,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(331,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(518,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(521,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(431,37): warning C4101: y: неиспользованная локальная переменная
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(431,34): warning C4101: x: неиспользованная локальная переменная
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(532,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(535,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(584,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(588,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(664,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\Figure.cpp(667,22): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\yougu\source\repos\chess\chess\game.h(63): error C2102: для "&" требуется левостороннее значение
+C:\Users\yougu\source\repos\chess\chess\game.h(84,167): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(84,121): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(86,143): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(86,97): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(89,55): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\game.h(110,120): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(110,74): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(111,146): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(111,100): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(113,123): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(113,77): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(114,160): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(114,114): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(115,127): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(115,81): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(117,157): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(117,111): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yougu\source\repos\chess\chess\game.h(129,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yougu\source\repos\chess\chess\game.h(173,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yougu\source\repos\chess\chess\game.h(185,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Move.cpp

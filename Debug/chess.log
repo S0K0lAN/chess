@@ -1,0 +1,21 @@
+﻿  Figure.cpp
+e:\vs 2019\chess\chess\figure.cpp(5): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(239): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(306): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(414): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(417): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(623): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(626): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(536): warning C4101: y: неиспользованная локальная переменная
+e:\vs 2019\chess\chess\figure.cpp(536): warning C4101: x: неиспользованная локальная переменная
+e:\vs 2019\chess\chess\figure.cpp(637): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(640): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(689): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(693): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(791): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(794): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\chess\chess\figure.cpp(21): warning C4715: Figure::getFigure: значение возвращается не при всех путях выполнения
+e:\vs 2019\chess\chess\figure.cpp(31): warning C4715: Figure::getFigureIndex: значение возвращается не при всех путях выполнения
+  chess.vcxproj -> E:\VS 2019\chess\Debug\chess.exe
